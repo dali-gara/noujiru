@@ -7,7 +7,7 @@ module.exports = {
       summary: `Agile Engineer / AI Engineer / Scrum Master`,
     },
     description: `主にクラウドのAIを触ってみる試み`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://dali-gara.github.io/noujiru`,
     social: {
       twitter: `T3aXb8IeU1rk8mT`,
     },
