@@ -23,6 +23,7 @@ const Layout = ({ location, title, children }) => {
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
       <header className="global-header">{header}</header>
+      <p>主にクラウドのAIを触ってみる試み</p> {/*  ブログの紹介はここに書く */}
       <main>{children}</main>
       <footer>
         © {new Date().getFullYear()}, Built with
