@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/noujiru",
   siteMetadata: {
     title: `脳汁(noujiru)`,
     author: {
